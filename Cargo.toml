@@ -1,0 +1,7 @@
+[package]
+name = "turingmachine"
+version = "0.1.0"
+authors = ["Jacob Montpetit <vikingfacer@users.noreply.github.com>"]
+
+[dependencies]
+csv = "1.0.0-beta.5"
