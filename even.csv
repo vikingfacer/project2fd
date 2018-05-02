@@ -1,0 +1,3 @@
+states,1
+q0,_ R qf
+qf,_ R q0

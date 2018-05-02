@@ -1,6 +1,6 @@
-states,0,1,B
-q1,B R q1,1 R q2,B R q1
-q2,B R q1,1 R q2,B L q3
-q3,O R q2,1 R q2,B L q4
-q4, , ,O L qf
-qf,O L q4,1 L q4,B R qf
+states,0,1,_
+q1,_ Rt q1,1 Rt q2,_ Rt q1
+q2,_ Rt q1,1 Rt q2,_ Lt q3
+q3,O Rt q2,1 Rt q2,_ Lt q4
+q4, , ,O Lt qf
+qf,O Lt q4,1 Lt q4,_ Rt qf
